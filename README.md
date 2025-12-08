@@ -145,7 +145,15 @@ git push origin v1.0.0
 
 - **原始项目**: [白嫖哥 - 优选IP Telegram 频道](https://t.me/CF_NAT)
 - **Telegram**: [@bestcfipas](https://t.me/CF_NAT)
+## Star History
 
+<a href="https://www.star-history.com/#byJoey/ech-wk&type=timeline&logscale&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=byJoey/ech-wk&type=timeline&theme=dark&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=byJoey/ech-wk&type=timeline&logscale&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=byJoey/ech-wk&type=timeline&logscale&legend=top-left" />
+ </picture>
+</a>
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
